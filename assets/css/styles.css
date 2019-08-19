@@ -7,7 +7,7 @@
  * Website: https://themes.3rdwavemedia.com/
 */
 body {
-  font-family: "Computer Modern Typewriter", sans-serif;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
   color: #434343;
   background: #DAE3E7;
   font-size: 16px;
@@ -16,7 +16,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Computer Modern Sans", sans-serif;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-weight: 700;
   color: #778492;
 }
