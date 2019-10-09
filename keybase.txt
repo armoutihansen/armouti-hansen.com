@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jarmoutihansen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://armouti-hansen.com
+  * I am jarmoutihansen (https://keybase.io/jarmoutihansen) on keybase.
+  * I have a public key ASDeJhWCGe1lXdnQ-0tonMc1MtVS04FQkro58vCi3NJS3Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120de26158219ed655dd9d0fb4b689cc73532d552d3815092ba39f2f0a2dcd252dd0a",
+      "host": "keybase.io",
+      "kid": "0120de26158219ed655dd9d0fb4b689cc73532d552d3815092ba39f2f0a2dcd252dd0a",
+      "uid": "4849c0c40a4fb49f15ea77ac924fb219",
+      "username": "jarmoutihansen"
+    },
+    "merkle_root": {
+      "ctime": 1570611387,
+      "hash": "d6d578c11651d2546c8439872c150801b58de33b3211865e5bd5143d017908d1431b240922e527d1e5832168ec3c44e77aaf9953ebaaea1cac35f0a88cb31d33",
+      "hash_meta": "8bfa2007bd4251eed3e4c84bd8eea1e61f8b113db35b7f6c41bcdcfb3528b0fd",
+      "seqno": 7925807
+    },
+    "service": {
+      "entropy": "WS9c+OHZ0EuBe3cX9o25Cqhj",
+      "hostname": "armouti-hansen.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1570611397,
+  "expire_in": 504576000,
+  "prev": "2d1b4c4d7639bb728348e97b67ad74a02b6d2dfc8230deeed1735f16cd9f2255",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3iYVghntZV3Z0PtLaJzHNTLVUtOBUJK6OfLwotzSUt0Kp3BheWxvYWTESpcCBcQgLRtMTXY5u3KDSOl7Z610oCttLfyCMN7u0XNfFs2fIlXEIGJAZUGFA0FsenXFw+kngFNZ0wnIIV3hrB0vxUyffeRCAgHCo3NpZ8RAGf3CEFmQxmEM8J4WkYR04el2IT6QsprVAnu6ykLiurWCHpyLmt8ipw5nDpSATAuL7FgH3FG2/7OzMYTfYjYdB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJp0ub3KdInSDxtowlevf4v6pSMUNgMBYK1L+DgsDWlpo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jarmoutihansen
+
+==================================================================
